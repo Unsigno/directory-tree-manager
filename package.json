@@ -1,0 +1,23 @@
+{
+  "name": "directory-tree-manager",
+  "version": "0.0.1",
+  "description": "A little package to define directory trees and build it in a row.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Unsigno/directory-tree-manager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Unsigno/directory-tree-manager/issues"
+  },
+  "homepage": "https://github.com/Unsigno/directory-tree-manager#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "promisify-fs": "^1.0.39"
+  }
+}
